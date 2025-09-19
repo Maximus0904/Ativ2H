@@ -1,4 +1,4 @@
-print("Exercício B")
+print("Exercício 2")
 import random
 num = random.randint(1,100)
 n2 = 0
