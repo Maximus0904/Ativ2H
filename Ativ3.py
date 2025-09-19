@@ -1,4 +1,4 @@
-print("Exercício C")
+print("Exercício 3")
 numero_tabuada = int(input("Número para a tabuada = "))
 i = 0
 print(f"Tabuada do {numero_tabuada}:")
