@@ -1,4 +1,4 @@
-print("EXercício A")
+print("EXercício 1")
 impar = 0 
 par = 0
 for _ in range(10):
