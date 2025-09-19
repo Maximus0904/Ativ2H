@@ -1,4 +1,4 @@
-print("Try programiz.pro")
+print("Exercício B")
 import random
 num = random.randint(1,100)
 n2 = 0
