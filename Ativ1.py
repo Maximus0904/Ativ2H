@@ -7,5 +7,5 @@ for _ in range(10):
         par += 1
     else: 
         impar += 1
-print(f"Números pares:{impar}")
+print(f"Números pares:{par}")
 print(f"Números impares:{impar}")
